@@ -1,4 +1,4 @@
-/*  exhibitionist.js
+/*  AMD app boilerplate
     Author: Daniel Espeset
 */
 
